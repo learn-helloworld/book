@@ -3,4 +3,4 @@ Jonas da Silva
 :description: Learn the HelloWorld Programming Language
 :url-repo: https://github.com/learn-helloworld/book
 
-
+You want to learn the HelloWorld programming language? That's nice to hear but … it does not exist - yet!
