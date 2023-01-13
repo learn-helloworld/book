@@ -18,7 +18,7 @@ https://github.com/rust-lang/rust[Rust]::
 * Error
 * Package Manager
 * Some & None
-* Struct and Enum
+* Struct & Enum
 https://github.com/microsoft/TypeScript[TypeScript] with https://github.com/colinhacks/zod[Zod]::
 * Powerful Typing
 * Runtime Type Validation
