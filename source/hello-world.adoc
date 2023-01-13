@@ -1,0 +1,17 @@
+= Writing our first program
+
+The first thing you do when learning a (new) programming language is creating a "Hello World" program ... ironic.
+The only thing that this program does is displaying "Hello World" on the console.
+
+[,helloworld]
+----
+std.helloworld();
+----
+
+But what if we want to display sonething else? Of course the `helloworld()` function is just a little easter egg.
+To actually display text, we use the `println()` function as follows.
+
+[,helloworld]
+----
+std.println("Good Bye, World!");
+----
