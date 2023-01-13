@@ -1,0 +1,26 @@
+= Book
+:toc:
+
+HelloWorld combines multiple programming concepts and paradigms from different programming languages.
+
+https://github.com/elixir-lang/elixir[Elixir]::
+* Pipe Operator
+* Trailing Question Mark for Functions returning Booleans
+https://github.com/nim-lang/Nim[Nim]::
+* Iterators
+* Macros
+https://github.com/python/cpython[Python]::
+* Namespaces
+* Powerful Manipulations on Objects
+https://github.com/ruby/ruby[Ruby]::
+* Blocks as Parameter
+https://github.com/rust-lang/rust[Rust]::
+* Error
+* Package Manager
+* Some & None
+* Struct and Enum
+https://github.com/microsoft/TypeScript[TypeScript] with https://github.com/colinhacks/zod[Zod]::
+* Powerful Typing
+* Runtime Type Validation
+
+
